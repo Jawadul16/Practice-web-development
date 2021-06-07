@@ -1,1 +1,1 @@
-let money = 1;
+let myMoney = 1;
